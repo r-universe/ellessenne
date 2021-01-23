@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "comorbidity"]
+	path = comorbidity
+	url = https://github.com/ellessenne/comorbidity
+	shallow = true
+[submodule "KMunicate"]
+	path = KMunicate
+	url = https://github.com/ellessenne/kmunicate-package
+	shallow = true
+[submodule "rsimsum"]
+	path = rsimsum
+	url = https://github.com/ellessenne/rsimsum
+	shallow = true
