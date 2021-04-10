@@ -7,11 +7,14 @@
 	path = comorbidity
 	url = https://github.com/ellessenne/comorbidity
 	shallow = true
+	registered = true
 [submodule "KMunicate"]
 	path = KMunicate
 	url = https://github.com/ellessenne/kmunicate-package
 	shallow = true
+	registered = true
 [submodule "rsimsum"]
 	path = rsimsum
 	url = https://github.com/ellessenne/rsimsum
 	shallow = true
+	registered = true
