@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "comorbidity"]
-	path = comorbidity
-	url = https://github.com/ellessenne/comorbidity
 [submodule "KMunicate"]
 	path = KMunicate
 	url = https://github.com/ellessenne/kmunicate-package
+[submodule "comorbidity"]
+	path = comorbidity
+	url = https://github.com/ellessenne/comorbidity
 [submodule "rsimsum"]
 	path = rsimsum
 	url = https://github.com/ellessenne/rsimsum
